@@ -37,11 +37,6 @@ export class HomeComponent {
 
       this.service.calcular(simulacao).subscribe(
         (res) => {
-          // this.alertaService.emiteAlertaLoading(
-          //   AlertType.Info,
-          //   'Carregando...',
-          //   ''
-          // );
 
           this.resultado = new Resultado(res.result.valorBruto, res.result.valorLiquido);
           this.form.reset();
