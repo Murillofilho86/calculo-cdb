@@ -1,0 +1,25 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.lock
+*.dll
+*.exe
+*.pdb
+*.v2
+/CalculoCDB/.vs/CalculoCDB/FileContentIndex
+*.suo
+*.bin
+/CalculoCDB/Api/src/CalculoCDB.Api/obj/Debug/net7.0/staticwebassets
+/CalculoCDB/Api/src/CalculoCDB.Api/obj/Debug/net7.0
+/CalculoCDB/Api/src/CalculoCDB.Api/obj
+/CalculoCDB/Api/src/CalculoCDB.Application/obj
+/CalculoCDB/Api/src/CalculoCDB.Domain/obj
+/CalculoCDB/Api/src/CalculoCDB.Shared/obj
+/CalculoCDB/Api/src/CalculoCDB.Shared/bin/Debug/net7.0
+/CalculoCDB/Api/src/CalculoCDB.Tests/obj
+/CalculoCDB/Api/src/CalculoCDB.Tests/bin/Debug/net7.0
+/CalculoCDB/App/calculo-cdb-app/.vscode
+/CalculoCDB/.vs/CalculoCDB/config
+/CalculoCDB/.vs/CalculoCDB/v17/TestStore/0
+/CalculoCDB/Api/src/CalculoCDB.Api/CalculoCDB.Api.csproj.user
